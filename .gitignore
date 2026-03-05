@@ -42,3 +42,8 @@ next-env.d.ts
 
 # documentation
 docs/
+agent.md
+
+# testing/dev
+scripts/
+test-models/
